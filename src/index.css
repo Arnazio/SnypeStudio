@@ -1,0 +1,11 @@
+*{
+    background: #f1f0f0;
+}
+
+.topNavWrapper{
+    
+    display : flex;
+    justify-content: space-between;
+}
+
+
